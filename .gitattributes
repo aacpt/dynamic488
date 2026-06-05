@@ -1,0 +1,12 @@
+# Normalize line endings: store text as LF in the repo on every platform.
+* text=auto
+
+# Shell scripts must stay LF in the working tree too, or they break on Linux.
+*.sh text eol=lf
+
+# Binary artifacts: never touch line endings.
+*.pkl binary
+*.stim binary
+*.svg binary
+*.png binary
+*.pdf binary

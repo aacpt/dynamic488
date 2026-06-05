@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Generated figures (reproducible from results/ via scans_and_plots/)
+figures/
+
+# Runtime logs from run_all.sh
+results/logs/
+
+# Backup / scratch artifacts
+*.bak
+
+# OS / editor
+.DS_Store
+Thumbs.db

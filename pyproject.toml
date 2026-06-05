@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dynamic488"
+version = "1.0.0"
+description = "Circuit-level implementations and analysis of the dynamic CSS 4.8.8 Floquet code"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Aliki A. Capatos" }]
+dependencies = [
+    "stim>=1.13",
+    "pymatching>=2.2",
+    "numpy>=1.24",
+    "matplotlib>=3.6",
+    "scipy>=1.10",
+    "beliefmatching>=0.1.0",
+    "sinter>=1.13",
+]
+
+[project.optional-dependencies]
+# BP+LSD alternative decoder
+bplsd = ["ldpc>=0.1.55"]
+# detslice rendering (full_floquet_grid.py). cairosvg needs the system libcairo;
+# prefer: conda install -c conda-forge cairosvg pillow
+detslices = ["cairosvg>=2.7", "pillow>=10.0"]
+dev = ["pytest>=7.0"]
+
+# Modules live flat in src/ as top-level modules (no package wrapper).
+[tool.setuptools]
+py-modules = [
+    "common", "lattice", "observable_helper", "paths",
+    "reset", "noreset", "ancilla", "pipelined", "builders",
+]
+
+[tool.setuptools.package-dir]
+"" = "src"
