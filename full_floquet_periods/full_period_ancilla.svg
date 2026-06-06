@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   viewBox="0 0 47623500 95738916"
+   viewBox="0 0 7154.5 9756.1"
    version="1.1"
    id="svg7618"
    sodipodi:docname="full_period_ancilla.svg"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   width="47623500"
-   height="95738912"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -20,9 +18,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.085177482"
-     inkscape:cx="3956.4447"
-     inkscape:cy="-1039.007"
+     inkscape:zoom="0.060229575"
+     inkscape:cx="4648.8789"
+     inkscape:cy="4574.1648"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="712"
@@ -36,7 +34,7 @@
       <rect
          x="0"
          y="0"
-         width="6497.2002"
+         width="6497.2"
          height="1554.3"
          id="rect2" />
     </clipPath>
@@ -46,7 +44,7 @@
          id="cell_clip_5dabdb7c_0"
          clipPathUnits="userSpaceOnUse">
         <rect
-           x="0"
+           x="0.00"
            y="0"
            width="1554.35"
            height="1554.35"
@@ -76,7 +74,7 @@
          id="cell_clip_5dabdb7c_3"
          clipPathUnits="userSpaceOnUse">
         <rect
-           x="4942.8398"
+           x="4942.84"
            y="0"
            width="1554.35"
            height="1554.35"
@@ -85,8 +83,8 @@
     </defs>
   </defs>
   <text
-     x="137759.12"
-     y="850989.38"
+     x="35"
+     y="877.20001"
      text-anchor="middle"
      dominant-baseline="middle"
      font-family="serif"
@@ -94,11 +92,14 @@
      font-size="56px"
      font-weight="bold"
      fill="#d04040"
-     id="text3">rXX</text>
+     id="text3"
+     inkscape:export-filename="..\..\..\..\..\..\..\..\..\..\..\..\..\..\Downloads\full_period_ancilla.svg"
+     inkscape:export-xdpi="450"
+     inkscape:export-ydpi="450">rXX</text>
   <g
      clip-path="url(#cell_clip_5dabdb7c_0)"
      id="g431"
-     transform="translate(137864.13,850212.15)">
+     transform="translate(140,100)">
     <g
        transform="translate(-1384.54,-1384.54)"
        id="g430">
@@ -8936,7 +8937,7 @@
   <g
      clip-path="url(#cell_clip_5dabdb7c_1)"
      id="g633"
-     transform="translate(137864.13,850212.15)">
+     transform="translate(140,100)">
     <g
        transform="translate(263.07,-1384.54)"
        id="g632">
@@ -12782,7 +12783,7 @@
   <g
      clip-path="url(#cell_clip_5dabdb7c_2)"
      id="g835"
-     transform="translate(137864.13,850212.15)">
+     transform="translate(140,100)">
     <g
        transform="translate(1910.68,-1384.54)"
        id="g834">
@@ -16612,7 +16613,7 @@
   <g
      clip-path="url(#cell_clip_5dabdb7c_3)"
      id="g1260"
-     transform="translate(137864.13,850212.15)">
+     transform="translate(140,100)">
     <g
        transform="translate(3558.3,-1384.54)"
        id="g1259">
@@ -25256,8 +25257,8 @@
     </g>
   </g>
   <text
-     x="137759.12"
-     y="852603.62"
+     x="35"
+     y="2491.5"
      text-anchor="middle"
      dominant-baseline="middle"
      font-family="serif"
@@ -25267,7 +25268,7 @@
      fill="#3e9e4e"
      id="text1261">gZZ</text>
   <g
-     transform="translate(137864.13,851826.45)"
+     transform="translate(140,1714.3)"
      clip-path="url(#row_clip)"
      id="g2535">
     <defs
@@ -44407,8 +44408,8 @@
     </g>
   </g>
   <text
-     x="137759.12"
-     y="854218.06"
+     x="35"
+     y="4105.8999"
      text-anchor="middle"
      dominant-baseline="middle"
      font-family="serif"
@@ -44418,7 +44419,7 @@
      fill="#3c7cc8"
      id="text2535">bXX</text>
   <g
-     transform="translate(137864.13,853440.85)"
+     transform="translate(140,3328.7)"
      clip-path="url(#row_clip)"
      id="g3807">
     <defs
@@ -69852,8 +69853,8 @@
     </g>
   </g>
   <text
-     x="137759.12"
-     y="855832.38"
+     x="35"
+     y="5720.2002"
      text-anchor="middle"
      dominant-baseline="middle"
      font-family="serif"
@@ -69863,7 +69864,7 @@
      fill="#d04040"
      id="text3807">rZZ</text>
   <g
-     transform="translate(137864.13,855055.15)"
+     transform="translate(140,4943)"
      clip-path="url(#row_clip)"
      id="g5061">
     <defs
@@ -88739,8 +88740,8 @@
     </g>
   </g>
   <text
-     x="137759.12"
-     y="857446.75"
+     x="35"
+     y="7334.6001"
      text-anchor="middle"
      dominant-baseline="middle"
      font-family="serif"
@@ -88750,7 +88751,7 @@
      fill="#3e9e4e"
      id="text5061">gXX</text>
   <g
-     transform="translate(137864.13,856669.55)"
+     transform="translate(140,6557.4)"
      clip-path="url(#row_clip)"
      id="g6350">
     <defs
@@ -113818,8 +113819,8 @@
     </g>
   </g>
   <text
-     x="137759.12"
-     y="859061.06"
+     x="35"
+     y="8948.9004"
      text-anchor="middle"
      dominant-baseline="middle"
      font-family="serif"
@@ -113829,7 +113830,7 @@
      fill="#3c7cc8"
      id="text6350">bZZ</text>
   <g
-     transform="translate(137864.13,858283.95)"
+     transform="translate(140,8171.8)"
      clip-path="url(#row_clip)"
      id="g7618">
     <defs
@@ -132934,7 +132935,7 @@
   </g>
   <g
      id="g1"
-     transform="translate(139057.35,850153.87)">
+     transform="translate(1333.2224,41.716266)">
     <text
        x="2243.3999"
        y="-39.200001"

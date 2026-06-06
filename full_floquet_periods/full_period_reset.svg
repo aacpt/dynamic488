@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   viewBox="0 0 12480228 26240275"
+   viewBox="0 0 3662.2 5093.1"
    version="1.1"
    id="svg6973"
-   width="12480228"
-   height="26240276"
+   sodipodi:docname="full_period_reset.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6973"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.1153729"
+     inkscape:cx="2166.8867"
+     inkscape:cy="1919.8616"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="712"
+     inkscape:window-y="1432"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6973" />
   <defs
      id="defs2">
     <clipPath
@@ -14,8 +34,8 @@
       <rect
          x="0"
          y="0"
-         width="3248.6001"
-         height="777.20001"
+         width="3248.6"
+         height="777.2"
          id="rect2" />
     </clipPath>
     <defs
@@ -24,10 +44,10 @@
          id="cell_clip_5dabdb7c_0"
          clipPathUnits="userSpaceOnUse">
         <rect
-           x="0"
+           x="0.00"
            y="0"
-           width="777.17999"
-           height="777.17999"
+           width="777.18"
+           height="777.18"
            id="rect3" />
       </clipPath>
       <clipPath
@@ -36,8 +56,8 @@
         <rect
            x="823.81"
            y="0"
-           width="777.17999"
-           height="777.17999"
+           width="777.18"
+           height="777.18"
            id="rect4" />
       </clipPath>
       <clipPath
@@ -46,25 +66,25 @@
         <rect
            x="1647.61"
            y="0"
-           width="777.17999"
-           height="777.17999"
+           width="777.18"
+           height="777.18"
            id="rect5" />
       </clipPath>
       <clipPath
          id="cell_clip_5dabdb7c_3"
          clipPathUnits="userSpaceOnUse">
         <rect
-           x="2471.4199"
+           x="2471.42"
            y="0"
-           width="777.17999"
-           height="777.17999"
+           width="777.18"
+           height="777.18"
            id="rect6" />
       </clipPath>
     </defs>
   </defs>
   <text
-     x="70532.352"
-     y="453992.09"
+     x="35"
+     y="488.60001"
      text-anchor="middle"
      dominant-baseline="middle"
      font-family="serif"
@@ -72,11 +92,14 @@
      font-size="56px"
      font-weight="bold"
      fill="#d04040"
-     id="text3">rXX</text>
+     id="text3"
+     inkscape:export-filename="..\..\..\..\..\..\..\..\..\..\..\..\..\..\Downloads\full_period_reset.svg"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">rXX</text>
   <g
      clip-path="url(#cell_clip_5dabdb7c_0)"
      id="g184"
-     transform="translate(70637.351,453603.51)">
+     transform="translate(140,100)">
     <g
        transform="matrix(0.999994,0,0,0.999994,-732.27,-732.27)"
        id="g183">
@@ -2820,7 +2843,7 @@
   <g
      clip-path="url(#cell_clip_5dabdb7c_1)"
      id="g587"
-     transform="translate(70637.351,453603.51)">
+     transform="translate(140,100)">
     <g
        transform="matrix(0.999994,0,0,0.999994,91.54,-732.27)"
        id="g586">
@@ -10398,7 +10421,7 @@
   <g
      clip-path="url(#cell_clip_5dabdb7c_2)"
      id="g980"
-     transform="translate(70637.351,453603.51)">
+     transform="translate(140,100)">
     <g
        transform="matrix(0.999994,0,0,0.999994,915.35,-732.27)"
        id="g979">
@@ -17958,7 +17981,7 @@
   <g
      clip-path="url(#cell_clip_5dabdb7c_3)"
      id="g1150"
-     transform="translate(70637.351,453603.51)">
+     transform="translate(140,100)">
     <g
        transform="matrix(0.999994,0,0,0.999994,1739.15,-732.27)"
        id="g1149">
@@ -20540,8 +20563,8 @@
     </g>
   </g>
   <text
-     x="70532.352"
-     y="454829.31"
+     x="35"
+     y="1325.8"
      text-anchor="middle"
      dominant-baseline="middle"
      font-family="serif"
@@ -20551,8 +20574,8 @@
      fill="#3e9e4e"
      id="text1151">gZZ</text>
   <text
-     x="70532.352"
-     y="455666.41"
+     x="35"
+     y="2162.8999"
      text-anchor="middle"
      dominant-baseline="middle"
      font-family="serif"
@@ -20562,8 +20585,8 @@
      fill="#3c7cc8"
      id="text2331">bXX</text>
   <text
-     x="70532.352"
-     y="456503.59"
+     x="35"
+     y="3000.1001"
      text-anchor="middle"
      dominant-baseline="middle"
      font-family="serif"
@@ -20573,8 +20596,8 @@
      fill="#d04040"
      id="text3489">rZZ</text>
   <text
-     x="70532.352"
-     y="457340.81"
+     x="35"
+     y="3837.3"
      text-anchor="middle"
      dominant-baseline="middle"
      font-family="serif"
@@ -20584,8 +20607,8 @@
      fill="#3e9e4e"
      id="text4631">gXX</text>
   <text
-     x="70532.352"
-     y="458178"
+     x="35"
+     y="4674.5"
      text-anchor="middle"
      dominant-baseline="middle"
      font-family="serif"
@@ -20596,7 +20619,7 @@
      id="text5821">bZZ</text>
   <g
      id="g1"
-     transform="translate(70253.751,453503.51)">
+     transform="translate(-243.6)">
     <g
        transform="translate(383.6,937.2)"
        clip-path="url(#row_clip)"
@@ -104725,8 +104748,8 @@
     </g>
   </g>
   <text
-     x="72328.305"
-     y="453504.12"
+     x="1830.9559"
+     y="0.61001587"
      text-anchor="middle"
      font-family="serif"
      font-size="48px"
